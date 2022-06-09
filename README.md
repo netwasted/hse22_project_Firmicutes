@@ -27,3 +27,5 @@ https://colab.research.google.com/drive/123m8zV2-Ka4hRH78nO4RkrdP286L-pad?usp=sh
 ![image](https://user-images.githubusercontent.com/60008375/172836346-f9d10696-3aa2-4a14-9040-efdb02858575.png)
 
 ![image](https://user-images.githubusercontent.com/60008375/172836365-c0a15be5-c19b-4f16-a5c2-eafb26e52c07.png)
+
+### Визуализация генов и предсказанных участков Z-DNA с помощью IGV
