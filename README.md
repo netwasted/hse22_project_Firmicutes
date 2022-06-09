@@ -18,12 +18,12 @@ https://colab.research.google.com/drive/123m8zV2-Ka4hRH78nO4RkrdP286L-pad?usp=sh
 
 ### Гистограммы значений ZH-Score
 
-![image](https://user-images.githubusercontent.com/60008375/172827079-194a8b69-7aab-452f-9959-fbbc13a48110.png)
+![image](https://user-images.githubusercontent.com/60008375/172836241-6f13e958-683e-4817-8380-b38fdd188c0d.png)
 
-![image](https://user-images.githubusercontent.com/60008375/172827105-ed7171a7-e8aa-487a-af41-88a834091316.png)
+![image](https://user-images.githubusercontent.com/60008375/172836273-ef6046bc-b8da-4b2b-bb5f-fed2297161f0.png)
 
-![image](https://user-images.githubusercontent.com/60008375/172827128-a7412410-facd-4cc8-a0e6-043313f892a3.png)
+![image](https://user-images.githubusercontent.com/60008375/172836312-e24bd3de-8441-4a0c-8927-d659b1c854e6.png)
 
-![image](https://user-images.githubusercontent.com/60008375/172827146-85d64e7e-398a-471e-a6ed-2b49a314b263.png)
+![image](https://user-images.githubusercontent.com/60008375/172836346-f9d10696-3aa2-4a14-9040-efdb02858575.png)
 
-![image](https://user-images.githubusercontent.com/60008375/172827167-0ea77093-043d-47a5-b37a-4d97020ffcdb.png)
+![image](https://user-images.githubusercontent.com/60008375/172836365-c0a15be5-c19b-4f16-a5c2-eafb26e52c07.png)
