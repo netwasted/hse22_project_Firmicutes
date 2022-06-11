@@ -29,3 +29,17 @@ https://colab.research.google.com/drive/123m8zV2-Ka4hRH78nO4RkrdP286L-pad?usp=sh
 ![image](https://user-images.githubusercontent.com/60008375/172836365-c0a15be5-c19b-4f16-a5c2-eafb26e52c07.png)
 
 ### Визуализация генов и предсказанных участков Z-DNA с помощью IGV
+
+**Clostridium aceticum**
+![image](https://user-images.githubusercontent.com/60008375/173201570-99cd0999-e602-430a-90ec-e690e20d6bff.png)
+
+**Clostridium botulinum A str\. ATCC 3502**
+![image](https://user-images.githubusercontent.com/60008375/173201597-2a742171-414d-4a2e-9687-24005d90ea22.png)
+
+**Clostridium cochlearium**
+![image](https://user-images.githubusercontent.com/60008375/173201625-76815533-51bc-41bd-982d-b03fa63e3b93.png)
+
+**Clostridium novyi**
+![image](https://user-images.githubusercontent.com/60008375/173201633-48236265-424a-4dbf-a3b1-efd5569ac6bb.png)
+
+**Clostridium septicum**
