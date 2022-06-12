@@ -43,3 +43,4 @@ https://colab.research.google.com/drive/123m8zV2-Ka4hRH78nO4RkrdP286L-pad?usp=sh
 ![image](https://user-images.githubusercontent.com/60008375/173201633-48236265-424a-4dbf-a3b1-efd5569ac6bb.png)
 
 **Clostridium septicum**
+![image](https://user-images.githubusercontent.com/60008375/173221009-b09505ca-94bf-47c2-909e-fba2f15d4d5d.png)
