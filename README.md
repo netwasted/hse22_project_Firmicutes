@@ -34,7 +34,7 @@ https://colab.research.google.com/drive/123m8zV2-Ka4hRH78nO4RkrdP286L-pad?usp=sh
 ![image](https://user-images.githubusercontent.com/60008375/173201570-99cd0999-e602-430a-90ec-e690e20d6bff.png)
 
 **Clostridium botulinum A str\. ATCC 3502**
-![image](https://user-images.githubusercontent.com/60008375/173201597-2a742171-414d-4a2e-9687-24005d90ea22.png)
+![image](https://user-images.githubusercontent.com/60008375/173223925-64210bb3-1531-4fa6-aaeb-9bcbaaa4f5cc.png)
 
 **Clostridium cochlearium**
 ![image](https://user-images.githubusercontent.com/60008375/173201625-76815533-51bc-41bd-982d-b03fa63e3b93.png)
