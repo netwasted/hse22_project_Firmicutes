@@ -28,7 +28,7 @@ https://colab.research.google.com/drive/123m8zV2-Ka4hRH78nO4RkrdP286L-pad?usp=sh
 
 ![image](https://user-images.githubusercontent.com/60008375/172836365-c0a15be5-c19b-4f16-a5c2-eafb26e52c07.png)
 
-### Визуализация генов и предсказанных участков Z-DNA с помощью IGV
+### Визуализация генов и предсказанных участков Z-DNA
 
 **Clostridium aceticum**
 ![image](https://user-images.githubusercontent.com/60008375/173201570-99cd0999-e602-430a-90ec-e690e20d6bff.png)
