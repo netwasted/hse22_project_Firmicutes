@@ -77,6 +77,16 @@ https://colab.research.google.com/drive/123m8zV2-Ka4hRH78nO4RkrdP286L-pad?usp=sh
 
 ## Бонусная часть задания - предсказание G-квадруплексов
 
+### Сводная таблица по геномам
+
+|index|Название вида|Количество предсказанных участков G-квадруплексов|Общая длина участков G-квадруплексов|
+|---|---|---|---|
+|0|Clostridium aceticum|8|216|
+|1|Clostridium botulinum A str\. ATCC 3502|0|0|
+|2|Clostridium cochlearium|2|49|
+|3|Clostridium novyi|0|0|
+|4|Clostridium septicum|2|43|
+
 ### Гистограммы значений score для G-квадруплексов
 
 ![image](https://user-images.githubusercontent.com/60008375/173436433-46b5371d-b291-461a-aeb1-5ab5e4caf8a8.png)
@@ -98,3 +108,5 @@ https://colab.research.google.com/drive/123m8zV2-Ka4hRH78nO4RkrdP286L-pad?usp=sh
 **Clostridium septicum (пятый геном)**
 
 ![image](https://user-images.githubusercontent.com/60008375/173434153-02a30968-af88-4892-a309-5189792ff6b5.png)
+
+### Выводы
