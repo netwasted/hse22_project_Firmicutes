@@ -77,6 +77,14 @@ https://colab.research.google.com/drive/123m8zV2-Ka4hRH78nO4RkrdP286L-pad?usp=sh
 
 ## Бонусная часть задания - предсказание G-квадруплексов
 
+### Гистограммы значений score для G-квадруплексов
+
+![image](https://user-images.githubusercontent.com/60008375/173436433-46b5371d-b291-461a-aeb1-5ab5e4caf8a8.png)
+
+![image](https://user-images.githubusercontent.com/60008375/173436460-b1b9bea4-098a-4a7d-b8f0-b7a439b0cdea.png)
+
+![image](https://user-images.githubusercontent.com/60008375/173436491-925dc095-0a3d-428c-9efa-38acb2c782c7.png)
+
 ### Визуализация генов и предсказанных участков G-квадруплексов
 
 **Clostridium aceticum (первый геном)**
