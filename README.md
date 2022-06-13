@@ -71,8 +71,8 @@ https://colab.research.google.com/drive/123m8zV2-Ka4hRH78nO4RkrdP286L-pad?usp=sh
 ![image](https://user-images.githubusercontent.com/60008375/173361985-57bec49c-3d22-4230-b65a-944fca1de055.png)
 ![image](https://user-images.githubusercontent.com/60008375/173362247-ae81771f-0e5c-459a-ab45-327addbd67c3.png)
 
-Итого лишь в 18 кластерах один ген из всех 5 видов имеет Z-DNA в промотере, в остальных же кластерах все белки никоим образом не связаны с образованием Z-DNA.
+Итого лишь в 16 кластерах один ген из всех 5 видов имеет Z-DNA в промотере, в остальных же кластерах все белки никоим образом не связаны с образованием Z-DNA.
 
-скриншотик
+![image](https://user-images.githubusercontent.com/60008375/173372323-d7d82f92-2d86-41d4-9987-2beea3c580c0.png)
 
 ## Бонусная часть задания - предсказание G-квадруплексов
