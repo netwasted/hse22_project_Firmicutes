@@ -76,3 +76,17 @@ https://colab.research.google.com/drive/123m8zV2-Ka4hRH78nO4RkrdP286L-pad?usp=sh
 ![image](https://user-images.githubusercontent.com/60008375/173372323-d7d82f92-2d86-41d4-9987-2beea3c580c0.png)
 
 ## Бонусная часть задания - предсказание G-квадруплексов
+
+### Визуализация генов и предсказанных участков G-квадруплексов
+
+**Clostridium aceticum (первый геном)**
+
+![image](https://user-images.githubusercontent.com/60008375/173433872-7969a91e-1d62-40a3-b77d-af9aa64fd136.png)
+
+**Clostridium cochlearium (третий геном)**
+
+![image](https://user-images.githubusercontent.com/60008375/173434129-6bff6777-d386-44ff-ab55-1f655a27f6b0.png)
+
+**Clostridium septicum (пятый геном)**
+
+![image](https://user-images.githubusercontent.com/60008375/173434153-02a30968-af88-4892-a309-5189792ff6b5.png)
