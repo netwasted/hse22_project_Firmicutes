@@ -31,19 +31,19 @@ https://colab.research.google.com/drive/123m8zV2-Ka4hRH78nO4RkrdP286L-pad?usp=sh
 ### Визуализация генов и предсказанных участков Z-DNA
 
 **Clostridium aceticum**
-![image](https://user-images.githubusercontent.com/60008375/173201570-99cd0999-e602-430a-90ec-e690e20d6bff.png)
+![image](https://user-images.githubusercontent.com/60008375/173431600-fd4a005f-2b98-4401-93fa-693945424a21.png)
 
 **Clostridium botulinum A str\. ATCC 3502**
-![image](https://user-images.githubusercontent.com/60008375/173223925-64210bb3-1531-4fa6-aaeb-9bcbaaa4f5cc.png)
+![image](https://user-images.githubusercontent.com/60008375/173431653-c1c4a048-452d-4d0c-b168-63e1f067cb42.png)
 
 **Clostridium cochlearium**
-![image](https://user-images.githubusercontent.com/60008375/173201625-76815533-51bc-41bd-982d-b03fa63e3b93.png)
+![image](https://user-images.githubusercontent.com/60008375/173431688-13334945-8d1c-4cc8-aaff-91c40eabf8dc.png)
 
 **Clostridium novyi**
-![image](https://user-images.githubusercontent.com/60008375/173201633-48236265-424a-4dbf-a3b1-efd5569ac6bb.png)
+![image](https://user-images.githubusercontent.com/60008375/173431719-214d92eb-43d6-49bb-8111-3f64539d97c7.png)
 
 **Clostridium septicum**
-![image](https://user-images.githubusercontent.com/60008375/173221009-b09505ca-94bf-47c2-909e-fba2f15d4d5d.png)
+![image](https://user-images.githubusercontent.com/60008375/173431752-9e37f9a4-04f4-431a-95ec-a485dca10507.png)
 
 ### Информация по полученным гомологичным кластерам
 
